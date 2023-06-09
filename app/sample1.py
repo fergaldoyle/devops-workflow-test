@@ -1,0 +1,1 @@
+print('code in sample2.py')
